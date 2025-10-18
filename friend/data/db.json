@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Friend": 2,
+    "Address": 2
+  },
+  "models": {
+    "Friend": {
+      "1": "{\"firstname\":\"Hannibal\",\"lastname\":\"Lecter\",\"id\":1}"
+    },
+    "Address": {
+      "1": "{\"city\":\"Baltimore\",\"postcode\":\"64827\",\"street\":\"Saints Street\",\"house_number\":\"66\",\"friendId\":1,\"id\":1}"
+    }
+  }
+}
